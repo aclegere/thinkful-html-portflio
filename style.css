@@ -41,6 +41,16 @@ main {
 
 .contactLogos { text-align: center;}
 
+.contactList{
+    margin-left: -3.7em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2.5em;
+    list-style-type: none;
+}
+
 .contact {padding-bottom: 2em;}
 
 .logos {
