@@ -26,16 +26,18 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-left: 30em;
-    margin-right: 30em;
+    margin-left: 20em;
+    margin-right: 20em;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1200px) {
     main {
-        margin-left: 2em;
-        margin-right: 2em;
+        margin-left: 3em;
+        margin-right: 3em;
     }
 }
+
+
 
 #contactblurb{text-align: center;}
 
